@@ -1,0 +1,6 @@
+
+{
+  "name": "Vertex - Professional Task Management",
+  "description": "A high-performance, responsive React dashboard featuring JWT-based authentication simulation, CRUD operations for task management, and a modular architecture designed for scalability.",
+  "requestFramePermissions": []
+}
